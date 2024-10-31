@@ -12,10 +12,10 @@ The Snowflake AIOps Prod Kit organization provides a central resource for produc
 
 This repository, Snowflake AI Playbook, serves as a hands-on, step-by-step playbook tailored to Snowflake’s AI and data capabilities, including:
 
-	•	**End-to-end AI Project Templates**: Production-grade templates and examples for common AI use cases.
-	•	**Best Practice Guides**: Documentation for implementing efficient, maintainable, and scalable AI workflows on Snowflake.
-	•	**Monitoring & Observability Tools**: Built-in monitoring tools for tracking model performance and data quality.
-	•	**Environment Setup**: Ready-to-use Snowflake environments optimized for AI operations, with integration support for the Titan framework.
+- **End-to-end AI Project Templates**: Production-grade templates and examples for common AI use cases.
+- **Best Practice Guides**: Documentation for implementing efficient, maintainable, and scalable AI workflows on Snowflake.
+- **Monitoring & Observability Tools**: Built-in monitoring tools for tracking model performance and data quality.
+- **Environment Setup**: Ready-to-use Snowflake environments optimized for AI operations, with integration support for the Titan framework.
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
